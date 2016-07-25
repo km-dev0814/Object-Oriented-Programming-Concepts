@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\MultipleInheritace-Interface\MultipleInheritace-Interface\bin\Debug\MultipleInheritace-Interface.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\MultipleInheritace-Interface\MultipleInheritace-Interface\bin\Debug\MultipleInheritace-Interface.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\MultipleInheritace-Interface\MultipleInheritace-Interface\bin\Debug\MultipleInheritace-Interface.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\MultipleInheritace-Interface\MultipleInheritace-Interface\obj\Debug\MultipleInheritace-Interface.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\MultipleInheritace-Interface\MultipleInheritace-Interface\obj\Debug\MultipleInheritace-Interface.pdb

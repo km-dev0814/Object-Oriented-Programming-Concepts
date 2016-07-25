@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Inheritance-Example\Inheritance-Example\bin\Debug\Inheritance-Example.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Inheritance-Example\Inheritance-Example\bin\Debug\Inheritance-Example.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Inheritance-Example\Inheritance-Example\bin\Debug\Inheritance-Example.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Inheritance-Example\Inheritance-Example\obj\Debug\Inheritance-Example.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Inheritance-Example\Inheritance-Example\obj\Debug\Inheritance-Example.pdb

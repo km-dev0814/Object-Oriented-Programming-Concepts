@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Encapsulation-Example\Encapsulation-Example\bin\Debug\Encapsulation-Example.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Encapsulation-Example\Encapsulation-Example\bin\Debug\Encapsulation-Example.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Encapsulation-Example\Encapsulation-Example\bin\Debug\Encapsulation-Example.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Encapsulation-Example\Encapsulation-Example\obj\Debug\Encapsulation-Example.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Object-Oriented Programming Concepts\Encapsulation-Example\Encapsulation-Example\obj\Debug\Encapsulation-Example.pdb
